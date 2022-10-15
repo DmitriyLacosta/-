@@ -1,0 +1,15 @@
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\bin\Debug\net6.0\Лекция.exe
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\bin\Debug\net6.0\Лекция.deps.json
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\bin\Debug\net6.0\Лекция.runtimeconfig.json
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\bin\Debug\net6.0\Лекция.dll
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\bin\Debug\net6.0\Лекция.pdb
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.csproj.AssemblyReference.cache
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.AssemblyInfoInputs.cache
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.AssemblyInfo.cs
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.csproj.CoreCompileInputs.cache
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.dll
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\refint\Лекция.dll
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.pdb
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\Лекция.genruntimeconfig.cache
+C:\Users\dkova\OneDrive\Рабочий стол\IT\Знакомство с языками программирования\Лекция\obj\Debug\net6.0\ref\Лекция.dll

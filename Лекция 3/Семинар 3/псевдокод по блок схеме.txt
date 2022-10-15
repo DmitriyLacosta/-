@@ -1,0 +1,22 @@
+Задача 1
+int[] array = [-2, 8, 14, -34, -9, 7, 7, 4]
+size = 8
+count = 0
+index = 0
+
+while (index < size)
+	if (numbers[index] > 0)
+		count = count + 1
+	index = index + 1
+
+print (count)
+
+Задача 2. Напишите псевдокод по блок-схеме
+
+Перенести самое большое значение элемента в правый край массива 
+[2, 5, 13, 7, 6, 4]
+
+int[] array = [2, 5, 13, 7, 6, 4]
+size = 6
+index = 0
+

@@ -1,0 +1,10 @@
+1  numbers = [2, 5, 13, 7, 6, 4]
+2  size = 5
+3  sum = 0
+4  avg = 0
+5  index = 0
+6  while (index < size) do
+7  	sum = sum + numbers[index]
+8 	index = index + 1
+9  avg = sum / size
+10 print(avg)
